@@ -24,7 +24,7 @@
 `Lua` · `JavaScript` · `HTML5` · `CSS3` · `SQL` · `Bash` · `C (Arduino)`
 
 **Tools & Platforms:**
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)· `Linux` · `Nginx` · `GitHub Actions` · `MariaDB / MySQL` · `Cloudflare`
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)· [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 
 **Domains:**
 🌐 FiveM scripting (ESX, NUI, QBCore)
