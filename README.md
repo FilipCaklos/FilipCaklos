@@ -50,10 +50,10 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FilipCaklos&theme=neon-dark&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipCaklos&show_icons=true&theme=radical&hide_border=true" width="49%">
+  <img src="https://streak-stats.demolab.com?user=FilipCaklos&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats-tau-lemon-61.vercel.app/api?username=FilipCaklos&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipCaklos&layout=compact&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-stats-tau-lemon-61.vercel.app/api/top-langs/?username=FilipCaklos&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
 ---
