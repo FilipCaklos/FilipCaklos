@@ -50,10 +50,10 @@
 ### 🧭 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<YOUR_GITHUB_USERNAME>&theme=neon-dark&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=<FilipCaklos>&theme=neon-dark&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=<FilipCaklos>&show_icons=true&theme=radical&hide_border=true" width="49%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<FilipCaklos>&layout=compact&theme=radical&hide_border=true" width="49%">
 </p>
 
 ---
@@ -70,6 +70,6 @@
 <div align="center">
 
 ✨ *"Automate what’s possible, optimize what exists, and build what doesn’t."*  
-![Views](https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&color=00FFD1&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=<FilipCaklos>&color=00FFD1&style=for-the-badge)
 
 </div>
