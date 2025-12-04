@@ -3,7 +3,7 @@
 # 👾 Welcome to My Digital Space
 ## 🧠 Developer | 🎮 FiveM Architect | ⚙️ Infrastructure Engineer
 
-!Typing SVG
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=4000&color=00FFD1&center=true&vCenter=true&width=600&lines=Code.+Create.+Automate.;Full+Stack+Developer+from+Slovakia.;Optimizing+Servers+and+3D+Printers.;Turning+Ideas+Into+Reality.)
 
 </div>
 
