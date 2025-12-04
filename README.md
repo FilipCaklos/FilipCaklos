@@ -10,11 +10,11 @@
 ---
 
 ### 🧩 About Me  
-💻 Full-stack developer focused on backend systems, automation, and cloud infrastructure.  
-🎮 Specialized in **FiveM (ESX, QBCore)** frameworks, with deep understanding of **Lua scripting** and resource optimization.  
-☁️ Experience in **web hosting**, **Dockerization**, and **Linux server** management.  
-🧠 Passion for **3D printing**, embedded systems, and digital ecosystems.  
-🔥 Always exploring — security, performance and efficiency.
+💻 Full-stack developer passionate about backend systems, automation, and server optimization.  
+🎮 Specialist in **FiveM (ESX, QBCore)** frameworks with deep Lua knowledge.  
+🖥️ Experienced in **web hosting**, **Docker**, **Linux**, and **database optimization**.  
+🧠 Enthusiast of **3D printing** and embedded systems.  
+🚀 Constantly learning and pushing the limits of technology.
 
 ---
 
@@ -27,27 +27,27 @@
 `Docker` · `Linux` · `Nginx` · `GitHub Actions` · `MariaDB / MySQL` · `Cloudflare`  
 
 **Domains:**  
-🌐 FiveM scripting and NUI systems  
+🌐 FiveM scripting (ESX, NUI, QBCore)  
 🧩 Web and API development  
-🛠️ Hosting infrastructure & CI/CD pipelines  
-🧱 3D printing optimization (firmware tuning, mechanics, slicing)  
+🛠️ Hosting & CI/CD automation  
+🧱 3D printer hardware tuning  
 
 ---
 
 ### 🚀 Featured Projects  
 
 #### 🪄 **LUCKY SOFTWARE**  
-> Unified developer ecosystem — offers a collection of modern software tools and utilities.  
+> A software ecosystem merging web tools, automation, and creative utilities under one brand.  
 
-#### 🧬 **FiveM Custom Roleplay Server**  
-> Custom-built ESX ecosystem, optimized with high performance scripts and integrated NUI UI.  
+#### 🧩 **FiveM Roleplay Server**  
+> Custom off-the-grid ESX project focused on performance, realism, and stability.  
 
-#### 🧠 **3D Printing Tuning Suite**  
-> Firmware and motion optimization project for fast, silent and precise prints.
+#### 🔧 **3D Print Performance Suite**  
+> Project for printer calibration, motion optimization, and firmware tuning.
 
 ---
 
-### 🧭 GitHub Analytics
+### 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FilipCaklos&theme=neon-dark&hide_border=true" width="49%">
@@ -62,7 +62,6 @@
 
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
