@@ -24,7 +24,7 @@
 `Lua` · `JavaScript` · `HTML5` · `CSS3` · `SQL` · `Bash` · `C (Arduino)`
 
 **Tools & Platforms:**
-`Docker` · `Linux` · `Nginx` · `GitHub Actions` · `MariaDB / MySQL` · `Cloudflare`
+`[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)` · `Linux` · `Nginx` · `GitHub Actions` · `MariaDB / MySQL` · `Cloudflare`
 
 **Domains:**
 🌐 FiveM scripting (ESX, NUI, QBCore)
