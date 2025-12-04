@@ -1,4 +1,4 @@
-<div align="center">
+****<div align="center">
 👾 Welcome to My Digital Space
 🧠 Developer | 🎮 FiveM Architect | ⚙️ Infrastructure Engineer
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Developer;FiveM%20Specialist;Infrastructure%20Engineer;3D%20Printing%20Enthusiast;Always%20Optim 🧩 About Me
@@ -48,3 +48,4 @@ Tools for calibration, motion optimization, Klipper firmware tweaks, and print f
 ✨ "Automate what’s possible, optimize what exists, and build what doesn’t."
 
 </div>
+****
