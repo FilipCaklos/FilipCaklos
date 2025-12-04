@@ -47,37 +47,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- Hlavná karta so štatistikou účtu -->
-  <img 
-    src="https://github-readme-stats-tau-lemon-61.vercel.app/api?username=FilipCaklos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    width="48%" 
-  />
-  <!-- Streak (séria commitov) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=FilipCaklos&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-  <br/>
-  <!-- Najpoužívanejšie jazyky -->
-  <img 
-    src="https://github-readme-stats-tau-lemon-61.vercel.app/api/top-langs/?username=FilipCaklos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    width="48%" 
-  />
-  <!-- Activity / summary graf (ak máš vlastný endpoint na Verceli, vlož sem jeho URL) -->
-  <img 
-    src="https://github-readme-stats-tau-lemon-61.vercel.app/api?username=FilipCaklos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&custom_title=Filip%20%C4%8Caklo%C5%A1%27s%20GitHub%20Stats" 
-    width="48%" 
-  />
+  <img src="https://streak-stats.demolab.com?user=FilipCaklos&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats-tau-lemon-61.vercel.app/api?username=FilipCaklos&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+  <br>
+  <img src="https://github-readme-stats-tau-lemon-61.vercel.app/api/top-langs/?username=FilipCaklos&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
-<!-- Počítadlo zobrazení profilu -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FilipCaklos&color=00FFD1&style=for-the-badge" />
-</p>
-
+---
 
 ### 🌐 Connect with Me  
 
